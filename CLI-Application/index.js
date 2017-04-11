@@ -1,5 +1,3 @@
-console.log("This page is working");
-
 //importing the twit package
 var Twit = require('twit');
 

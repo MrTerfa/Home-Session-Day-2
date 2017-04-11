@@ -1,5 +1,5 @@
 
-//conatins the 
+//conatins the keys and tokens
 module.exports = {
 	consumer_key:         'cG5jsJIb84kvx5vNBSuNbgY9V',
 	consumer_secret:      'zRpZzZlERDwn31hNBR1nW8cnQnBzptC2XJlWPq0VCHUou86wY5',
