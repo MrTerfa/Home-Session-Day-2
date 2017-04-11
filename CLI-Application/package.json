@@ -1,0 +1,18 @@
+{
+  "name": "twitterpull",
+  "version": "1.0.0",
+  "description": "I am creating a CLI application that consumes the twitter API",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "Terfa Tortema",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
